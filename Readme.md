@@ -3,8 +3,7 @@
 G5S is a GTA 5 multiplayer mod. Development is focused on getting the server to a pristine stage right now,
 and as such the client is not going to receive much attention.
 
-There is currently no publicly available download, but you are free to clone this repository and build it
-yourself.
+You can download experimental builds of this mod from the releases tab.
 
 ## Features
 
