@@ -10,12 +10,12 @@ You can download experimental builds of this mod from the releases tab.
 As this project had only been in development for a few weeks, there isn't very much to it right now. These
 are the features that are currently implemented:
 
-* Cross-platform dedicated server.
-* Client.
+* Dedicated server.
+* Basic Client.
 * Player movement synchronization.
 * Fast entity streaming.
 * A simple chat.
-* Rockstar-like user interface.
+* Native user interface.
 
 ## Running
 
