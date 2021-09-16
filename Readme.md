@@ -5,17 +5,16 @@ and as such the client is not going to receive much attention.
 
 You can download experimental builds of this mod from the releases tab.
 
-## Features
+## Feature List
 
-As this project had only been in development for a few weeks, there isn't very much to it right now. These
-are the features that are currently implemented:
+Ticked features are implemented, unticked ones are either a work in progress or yet to come.
 
-* Dedicated server.
-* Basic Client.
-* Player movement synchronization.
-* Fast entity streaming.
-* A simple chat.
-* Native user interface.
+- [x]  Dedicated server.
+- [x]  Basic Client.
+- [x]  Player movement synchronization.
+- [x]  Fast entity streaming.
+- [x]  A simple chat.
+- [x]  Native user interface.
 
 ## Running
 
