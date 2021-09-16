@@ -3,20 +3,18 @@
 G5S is a GTA 5 multiplayer mod. Development is focused on getting the server to a pristine stage right now,
 and as such the client is not going to receive much attention.
 
-There is currently no publicly available download, but you are free to clone this repository and build it
-yourself.
+You can download experimental builds of this mod from the releases tab.
 
-## Features
+## Feature List
 
-As this project had only been in development for a few weeks, there isn't very much to it right now. These
-are the features that are currently implemented:
+Ticked features are implemented, unticked ones are either a work in progress or yet to come.
 
-* Cross-platform dedicated server.
-* Client.
-* Player movement synchronization.
-* Fast entity streaming.
-* A simple chat.
-* Rockstar-like user interface.
+- [x]  Dedicated server.
+- [x]  Basic Client.
+- [x]  Player movement synchronization.
+- [x]  Fast entity streaming.
+- [x]  A simple chat.
+- [x]  Native user interface.
 
 ## Running
 
