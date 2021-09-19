@@ -21,6 +21,7 @@ Ticked items are implemented, unticked ones are either a work in progress or yet
 - [ ]  Vanilla bug fixes
 - [ ]  Mod bug fixes
 - [ ]  Map fixes
+- [ ]  Removal/Fixing of absurd weaponised vehicles
 - [ ]  GTA 4 Features
 - [ ]  Seamless DLC integration
 
