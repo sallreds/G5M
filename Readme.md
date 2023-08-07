@@ -51,7 +51,7 @@ via `cmake`. On Linux you will need to have the ENet library installed (eg. on D
 
 ## Contributing
 
-If you want to contribute please add me on Discord, my handle is sallreds#1670.
+If you want to contribute please add me on Discord, my handle is {removed as I no longer want to be involved with this project}.
 
 ## License
 
